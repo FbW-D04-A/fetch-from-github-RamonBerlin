@@ -1,8 +1,8 @@
 const button = document.querySelector("button");
 const list = document.querySelector("ul");
 
-const URL_API =
-  "https://raw.githubusercontent.com/giacomotolari/json-fetch/main/data.json";
+// const URL_API =
+//   "https://raw.githubusercontent.com/giacomotolari/json-fetch/main/data.json";
 
 // button.addEventListener("click", () => {
 //   fetch(URL_API)
@@ -13,6 +13,9 @@ const URL_API =
 //       })
 //     );
 // });
+
+const URL_API =
+  "https://raw.githubusercontent.com/FbW-D04-A/fetch-from-github-RamonBerlin/main/user.json";
 
 button.addEventListener("click", async () => {
   try {

@@ -1,0 +1,20 @@
+{
+  "name": "fetch-from-github-ramonberlin",
+  "version": "1.0.0",
+  "description": "FETCH-assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-D04-A/fetch-from-github-RamonBerlin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-D04-A/fetch-from-github-RamonBerlin/issues"
+  },
+  "homepage": "https://github.com/FbW-D04-A/fetch-from-github-RamonBerlin#readme"
+}

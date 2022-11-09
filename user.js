@@ -1,0 +1,11 @@
+// [
+//     { "firstName": "Max", "lastName": "m1", "city": "Köln", "age": 99 },
+//     { "firstName": "Erika", "lastName": "m2", "city": "Bochum", "age": 35 },
+//     { "firstName": "John", "lastName": "m3", "city": "Kiel", "age": 40 },
+//     { "firstName": "Erik", "lastName": "m4", "city": "Berlin", "age": 50 },
+//     { "firstName": "Henry", "lastName": "m5", "city": "Hamburg", "age": 60 }
+//   ]
+
+import myJson from "./user.json" assert { type: "json" };
+export { myJson };
+// console.log(myJson);

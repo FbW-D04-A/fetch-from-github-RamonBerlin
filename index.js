@@ -1,3 +1,5 @@
+import { myJson } from "./user.js";
+
 const button = document.querySelector("button");
 const list = document.querySelector("ul");
 
@@ -28,3 +30,5 @@ button.addEventListener("click", async () => {
     console.log(err);
   }
 });
+
+// console.log(myJson);

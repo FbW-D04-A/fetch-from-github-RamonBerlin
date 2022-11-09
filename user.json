@@ -1,0 +1,8 @@
+[
+    { "firstname": "Max", "lastname" :"m1" ,"city" : "Köln", "age" : 30 },
+    { "firstname": "Erika", "lastname" :"m2" ,"city" : "Bochum", "age" : 35 },
+    { "firstname": "John", "lastname" :"m3" ,"city" : "Kiel", "age" : 40 },
+    { "firstname": "Erik", "lastname" :"m4" ,"city" : "Berlin", "age" : 50 },
+    { "firstname": "Henry", "lastname" :"m5" ,"city" : "Hamburg", "age" : 60 }
+]
+
